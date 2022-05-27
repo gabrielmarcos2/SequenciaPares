@@ -1,0 +1,2 @@
+# SequenciaPares
+tarefa SequenciaPares
